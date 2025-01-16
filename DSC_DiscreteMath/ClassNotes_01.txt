@@ -1,0 +1,51 @@
+class notes adv data structures
+
+Class 01
+---
+
+2 types of data structure: linear and non-linear
+- Linear is arrays, linked lists, etc
+- Nonlinear is trees / heaps
+>> Good way to remember is: is it obvious how this would be traversed when using a for loop to iterate over the data structure?
+ >> arrays it is obvious
+ >> trees... there are a variety of traversal options
+
+
+"Abstract Data Types" as a concept, dynamic memory location (when array/list items do not have to be defined)
+
+
+How to create the data types using python:
+
+```
+import ctypes # helps with dll calls or outside code?
+
+class CustomList:
+
+	# constructor
+	def __init__(self):
+		self.size = 1
+		self.n = 0
+		self.A = self.__make_array(self.size)
+		pass
+
+	def __len__(self):
+		return self.n
+		
+	def __resize(self, newSpaces):
+		pass
+	
+	def __delitem__(self, position):
+		if 0 <= position < self.n:
+			for i in range(position, self.n - 1):
+				self.A[i] = self.A[i+1]
+	
+	def find(self, item):
+		for i in range(self.n):
+			if self.A[i] == item:
+				return i
+		return "ValueError - Not In List"
+	
+	
+	
+	
+```
