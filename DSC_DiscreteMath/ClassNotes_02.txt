@@ -1,3 +1,10 @@
 Class Notes 2 - Adv Data Structures
 -=====================================
 
+ADT == Abstract Data Type
+- Basically, all higher-level data types / classes like collections.
+
+adding two functions to the code we have so far
+
+1. Add item in position of choice "insert"
+2. remove all items from list "clear"

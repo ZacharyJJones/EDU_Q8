@@ -1,0 +1,453 @@
+Chemistry Must-Know Notes
+=========================
+
+===================================
+Week 01 + 02 - Basics & Measurement
+===================================
+
+Precision: Decimal Points vs Significant Figures
+- Decimal points start counting from the decimal point
+- Significant figures start counting from the first non-zero number (can be left of dec. point)
+
+Decimal Points & Significant Figures: During math operations
+- results use the lowest sig-fig/dec.point of the two inputs.
+- Applies to mult/division AND add/subtraction
+
+Quantitative Statement:
+- Objective: "The class average for this test was 72%"
+ >> Statement based on facts or observations
+- Subjective: "From 1 to 10, I rate this test as a 5 for fairness"
+ >> NOT from external/gathered data, but from internal/opinion
+
+
+=========================
+Week 03 - Matter & Energy
+=========================
+
+Matter Classification:
+- 2 main groups, "Pure Substances" and "Mixtures"
+ - Pure substances has 2 subgroups of "Elements" (copper, hydrogen) and "Compounds" (water as H2+O)
+  -- fixed or definite composition
+  -- "Element" has one type of atom
+  -- "Compound" is 2 or more elements which are always combined in a definite ratio (h2o)
+ - Mixtures has 2 subgroups of "Homogenous" (brass, being copper and zinc together as one material) and Heterogenous (materials which do not sludge together. Water and copper are a good example, if you mix the two you end up with two obviously distinct areas - one copper and one water.)
+  -- "Physically mixed but NOT chemically combined", can be separated by physical methods
+  -- "Homogenous" == uniform composition, different parts not visible
+  -- "Heterogenous" == composition varies from one given volume to another, different parts are visible
+
+Exothermic Reaction = releases heat
+Endothermic Reaction = absorbs heat
+
+States of matter
+- Solids: definite shape/volume, fixed arrangement of close-together slow particles.
+- Liquids: indefinite shape, definite volume. slow particles close together but mobile. takes shape of container
+- Gases: INDEFINITE shape/volume. particles far apart / move fast. takes shape and volume of container
+
+Physical vs Chemical properties
+- Physical: Observed/Measured without changing substance identity. Shape/density/color,	boiling/freezing points
+ -- e.g. water boils to become water vapor. Paper cut into confetti. Sugar dissolves in water.
+- Chemical: Describes ability to interact with other substances or change into other substances
+ -- chemical change means that the original substance turns into one or more new substances with new chemical/physical properties.
+
+Extensive vs Intensive Properties
+- Extensive: Varies with substance quantity (mass, weight, volume)
+- Intensive: Independent of substance quantity (color, melting/boiling point, physical state at temps)
+
+Temperature:
+- Absolute Zero = -273 degrees celsius, ~= 0 degrees Kelvin
+-- Water freezes: 273 K, 0 Celsius, 32 Fahrenheit
+-- Human Body Temp: 310 Kelvin, 37 Celsius, 98.6 Fahrenheit
+-- Water Boils: 373 Kelvin, 100 Celsius, 212 Fahrenheit
+- Fahrenheit to Celsius: (<degrees_in_Kelvin> - 32) / 1.8 == <degrees in celsius>
+
+Kinetic & Potential Energy
+- Kinetic: energy of motion
+- Potential: Energy stored for use later (compressed spring, some chemical bonds)
+
+1 cal = 4.184 Joules (exact)
+-- Nutrition facts are listed as kcal, or "Big C Calories".
+
+Changes of State
+- "Heat of Fusion" is the heat released during freezing / heat needed when melting
+- "Sublimination": solid directly changes to gas. "Deposition": gas directly changes to solid.
+- "Vaporization / Condensation" is the liquid <-> gas change
+
+WATER FACTS: 
+- needs 334 J/g to freeze/melt
+- needs 2260 J/g to vaporize / condense
+
+
+===============
+Week 04 - Atoms
+===============
+
+Atoms are never created nor destroyed via chemical reaction
+
+VERY IMPORTANT PEOPLE
+
+1) Dalton (Dalton's atomic theory)
+- 2 or more combine to make compounds
+- can be rearranged in chemical reaction to form new combinations
+
+2) J. J. Thomson (Cathode Ray)
+- Cathode rays have negative charge particles
+- Electrons (particles) have very small mass in atom
+- "Plum Pudding" model, random distribution of protons/electrons in a cloud
+
+3) Rutherford (Gold foil)
+-> He shot positively charged particles at gold foil. Most passed through, conclusion being small dense centers of atoms
+
+ELECTRICAL CHARGE
+- Protons have a positive (+) charge
+- Electrons have a negative (-) charge
+- Neutrons have no charge
+> Like magnets, same charges repel each other (instability)
+> Atom is "neutral" if it's net charge is 0 (when # of protons equals # of electrons)
+
+Atom anatomy
+- Nucleus @ center, protons and neutrons. Most all of it's mass is here
+- Electrons occupy a large empty space around the nucleus
+
+Atom Mass
+- measured by Carbon-12 (6 protons 6 neutrons)
+- Electrons are not counted for atom masses (~ 1 / 1,800th of a proton or neutron)
+
+Atomic Number
+- Atomic number matches the # of protons in the atom for that element
+- All atoms that have X protons are the same element. i.e. Hydrogen ALWAYS has just 1 proton.
+
+Periodic Table Guide
+- Atomic number == # of protons
+- Mass Number == # of protons + # of neutrons
+- # of neutrons == mass number - # of protons
+- Atoms on periodic table are neutral, so # of electrons will equal the number of protons
+> The atomic mass written at bottom is the WEIGHTED AVERAGE of all naturally-occurring isotopes
+
+=== 4.5 - ISOTOPES
+- An isotope of an atom of one element that has a different number of neutrons than "normal"
+- Isotopes (when written in style of periodic table) have their mass number and atomic number to the left of the asymbol, rather than above / below.
+ -->> The mass number is written ABOVE the atomic number
+- Isotope shorthand is written with a superscript number to the left of the element symbol.
+ -->> Example being ^12_C, for Carbon-12
+
+
+
+=== 4.6 - ELECTRON ENERGY LEVELS
+
+Electrons in an atom have:
+1. Energy levels
+2. Sublevels
+3. Orbitals
+
+Electromagnetic radiation encompasses each of Light, rainbow colors, X-rays
+- energy particles that move as waves of energy
+- high-energy == shorter wavelength
+
+Each electron has a specific energy level. These levels are QUANTIZED, meaning they only have some specific values.
+- Energy values increase as electrons get farther from nucleus
+
+Electron movement / emitted light-energy 
+- When absorbing energy, electrons move to a higher energy level
+- When falling to a lower level, light energy is emitted (scales with the magnitude of energy value change)
+
+Sublevels
+- An energy level has a # of sublevels equal to it's principal quantum number (specific magnitude of energy at that level)
+ -->> Levels identified as "s" -> "p" -> "d" -> "f"
+
+== Electron Orbitals
+> Commonly represented as a cloud and described in terms of probability (because they fly all over the place in the atom)
+
+1) s-Orbitals
+- Shown as spheres
+- Increase in size at higher energy levels
+
+2) p-Orbital
+- 3 p orbitals total, starting at n=2
+- shaped like long balloons that are twisted in the middle (or a dumbbell)
+- One along each of the orthogonal axes x/y/z
+
+3) d-Orbital
+- 5 d orbitals total, starting at n=3
+- 4 of 5 are shaped like quad-lobes arranged along or between the axes
+- the fifth is like a p-Orbital in one axis but also has a donut shape about the center.
+
+Each orbital can hold a maximum of 2 electrons
+- These electrons MUST have opposing magnetic spins, which cancel out their spin forces
+
+Electron Counts
+>> Atoms can have electrons at multiple energy levels (they typically fill bottom to top). Each energy level can have it's corresponding number of sublevels (so you can have p-Orbitals at both n=2 AND n=3 in the same atom
+- Each "s" sublevel has one orbital, max 2 electrons
+- "p" has three orbitals, 6 electrons max
+- "d" has 5, 10 electrons max
+- "f" has 7, 14 electrons max
+
+
+=== 4.8 - Trends in Periodic Properties
+
+Period X on table is the Xth row from top -> bottom
+
+Group numbers in periodic table describe Valence electrons (# of electrons in outermost energy level)
+- Column number itself is not the group number. Look for 1A - 8A  to describe this
+- Traditional table depictions are 1=1A,2 thru 12=2A,13=3A,14=4A, ... 18=8A
+- Valence electrons can be represented by Lewis symbols, which are dots placed around the atomic symbol.
+ -->> Each valence is a single dot around the symbol. Only use pairs when at 5-8 valence
+
+Atomic Size
+- Gets smaller from left -> right on periodic table
+- Gets larger from top -> bottom on periodic table
+- Determined by Atomic Radius (distance between nucleus and outermost electrons)
+ >> Smallest at top/right of row/column
+ >> Largest at bottom/left of row/column
+
+Ionization Energy - energy required to remove one of the outermost electrons
+- required energy decreases as distance from nucleus increases
+- is low for metals and high for nonmetals
+- Required energy decreases as going down periodic table, increases going left -> right across the table.
+ >> Smallest at bottom/left of row/column
+ >> Largest energy at top/right of row/column
+
+Metallic Character
+- An element with this trait loses valence electrons easily
+- Gets less common moving across taable from left -> right
+- Decreases going down a particular group (column), because the atomic size is bigger (electrons further from nucleus)
+
+
+
+=====================================
+Week 5 - Ions and Molecular Compounds
+=====================================
+
+== 6.1 Ions & Electron transfer
+
+Chemical bonds are formed when atoms lose or share valence electrons in order to acquire 8 (an octet, octet rule) valence electrons
+- Ionic bonds: metal atom valence transfers to nonmetal
+- Covalent bonds: nonmetal atoms share electrons to get noble gas arrangement
+- Metals lose valence electrons when forming bonds. Nonmetals gain/share valence electrons.
+
+Anions and Cations?
+- Anion has one or more negative electric charges (anion can refer to a group of molecules or just 1)
+- Cation has one or more positive charge (again, a group or just 1)
+
+Written description for ions: Symbol (Fe, Mg, S, etc), then in superscript: <number><+/->. The number is omitted if it is just 1. The +/- describes the ion/charge type.
+- Reminder that losing electrons (metals) will mean a positive ion charge.
+
+== 6.2 - Writing formulae for Ionic compounds
+
+Ionic compound: positiev and negative charges held together by strong attraction of opposite ion charges
+- Attractions are called IONIC BONDS
+- High melting points, solid at room temperature
+- Table salt (sodium chloride) is a common example for chemistry. It is an ionic bond of Na^(+) and Cl^(-) molecules.
+
+Chemical formula: Purpose is to describe how the net-neutral charge state is achieved by the bonds. 
+- Table salt: 1(1+) + 1(1-) == 0. In human terms, 1 Na+ molecule (which has 1 ion charge) is added to 1 Cl- molecule (which has -1 ion charge), resulting in a net charge of 0.
+- Magnesium Chloride: 1(2+) + 2(1-) == 0. Human: 1 Mg^(2+) molecule (has 2 ion charge) is added to 2 Cl- molecules (each of which have -1 ion charge), resulting in net charge 0.
+>> If you are asked to write a formula of the compound formed with two different types of atoms, REMEMBER that it may involve more than 1 atom of one/both types. The GOAL is to balance it out to 0 net charge.
+>> Write the cation (positive charge) first in these formulae.
+
+
+== 6.3 - Naming Ionic Compounds
+
+1) Name of metal is given first (is the same as name of the element)
+ > Specify which ion variant (if applicable) is used in the compound.
+2) name of nonmetal is first syllable of nonmetal name + "ide" ending. Written second.
+3) A space is placed between metal and nonmetal ions.
+
+All metals form as cations (positive charges)
+All nonmetals form as anions (negative charges)
+
+Metals that have more than one positive ion are decribed with name and roman numeral:
+- Fe^(2+) == Iron(II)
+- Fe^(3+) == Iron(III)
+- Bi^(3+) == Bismuth(III)
+- Bi^(5+) == Bismuth(V)
+
+When the ion variant is not described, you can use math in the ionic compound equation to figure out which one is needed to get 0 net charge.
+
+
+== 6.4 - Polyatomic Ions
+
+A group of 3 or more atomic ions
+These have a -1/2/3 charge, with one exception - NH_4^(+)
+Composition is often dominated by one of these nonmetals: phosphorus, sulfur, carbon, nitrogen, oxygen.
+
+Common polyatomic ions end with "-ate" (SO_4, PO_4, NO_3, CO_3 == sulfate, phosphate, nitrate, carbonate)
+- These end with "-ite" when they have 1 less oxygen ion (sulfite, phosphite, nitrite)
+
+Two exceptions to naming convention are: CN^(-) (Cyanide) and OH^(-) (Hydroxide)
+
+YOu can add a Hydrogen ion to the polyatomic composition, which adds 1 to it's net charge
+- When you do this, it gets the prefix "bi-". So "bicarbonate", or you can call it "hydrogen _x_"
+
+As a group, Halogens have a naming convention (Each has a −1 charge)
+> ClO4− perchlorate
+> ClO3− chlorate
+> ClO2− chlorite
+> ClO− hypochlorite
+
+Charge Balancing & Equation Writing:
+- Charge balancing can be done between polyatomic ions and single-atomic ions.
+- To indicate the quantity of the polyatomic portion, surround it in parentheses and add the subscript number fter.
+>> e.g. Mg^2+ and NO_3^(-), Mg(NO_3)_2 results in a net charge of 0.
+>> The polyatomic ions are almost always the anion when charge balancing.
+
+
+== 6.5 - Molecular Compounds (Sharing Electrons)
+> A molecular compound is 2 or more NONMETAL atoms share electrons to make a covalent bond
+> Sharing valence electrons increases stability of compound
+
+>> 	A Molecule forms when 2 or more atoms share electrons.
+
+= Naming Conventions:
+1st half: element name
+2nd half: first syllable with -ide postfix.
+
+When subscript indicates multiple atoms of a type in the compound, use the following prefixes:
+
+1 = Mono
+2 = Di
+3 = Tri
+4 = Tetra
+5 = Penta
+6 = Hexa
+7 = Hepta
+8 = Octa
+9 = Nona
+10 = Deca
+
+When the prefix would cause a combination of 2 o's or 2 a's or 1 of each, exclude the first one.
+>> WRONG == Tetra oxide == Tetraoxide
+>> RIGHT == Tetr oxide == Tetroxide
+
+
+== 6.6 - Lewis Structures for Molecules & Polyatomic Ions
+
+Lewis structures for these are drawn in such a way to show the octects of valence electrons -- the center atom(s) are likely to have the full 8, with other atoms around it sharing some of those
+
+Bonds between atoms are always done as pairs of electrons. Those pairs can be represented by a line, rather than the two dots.
+
+= Double Bonds, Triple Bonds
+
+These are formed when the atoms share two or three pairs of electrons, respectively. These bonds only form when there are not enough electrons in the configuration to complete the octets
+
+= Some exceptions to the rule of octets:
+
+> Hydrogen pairs only need a total of 2 electrons to pair
+> Nonmetals P, S, Cl, Br, and I can form compounds with 10 or 12 valence electrons.
+> The S atom has an octet in many compounds, but in SF6, there are 12 valence electrons or 6 bonds to the sulfur atom.
+
+
+== 6.7 - Electronegativity & Polarity
+
+Electronegativity is a property of elements that can be use to determine the polarity of a bond.
+> INCREASES from left to right on periodic table
+> DECREASES from top to bottom
+
+> Can be described as the ability to attract the shared electrons in a bond
+
+When the quantity of electrons shared to forms bonds is equal (or nearly equal), then the bond is NONPOLAR (e.g. H-H)
+> When unequal, the bond is POLAR,
+
+You can calculate polar or not by taking the difference of the electronegativity values.
+> If the result is >= 0.5, then it will be polar. If less, then it is nonpolar
+> A bond is "MORE POLAR" if the difference is greater
+
+When writing bonds to show electronegativity, the side with lower electronegativity is on the left, higher on the right. Arrow may be drawn underneath to show direction as well.
+
+Ionic bonds are often HIGHLY polar, with difference >= 1.8
+
+
+QUICK REFERENCE:
+
+0.0 -> 0.4 == Nonpolar Covalent Bond
+0.5 -> 1.8 == Polar Covalent
+1.8 -> any == Ionic (electrons are considered to be transferred, rather than "shared")
+
+
+== 6.8 - Shapes & Polarity of Molecules
+
+One center with 4 bonded == tetrahedral, 109 degree angles,  "wedge-dash notation"
+One center with 3 bonded == trigonal planar, 120 degree angles, drawn as trangle shape
+One center with 2 bonded == linear, 180 degree angles
+
+One center with 3 bonded BUT a lone pair of electrons == trigonal pyramidial, 109 degree angles
+One center with 2 bonded BUT a lone pair of electrons == bent, 120 degree angles
+One center with 2 bonded BUT TWO lone pairs of electrons == bent, 109 degree angles (real shape is akin to tetrahedral)
+
+Note: A lone / unbonded pair of electrons affects the shape in the same way that a normal bond would
+
+
+= Valence Shell Electron-Pair Repulsion Theory (VSEPR)
+> describes the orientation of electron groups around the central atom.
+> states that electron groups are arranged as far apart as possible around the central atom.
+> states that the specific shape of a molecule is determined by the number of atoms attached to the central atom.
+
+
+= Polarity of Molecules
+
+Molecules with NONPOLAR bonds will always be NONPOLAR
+> with POLAR bonds with SOMETIMES be POLAR
+ >>> They can become NONPOLAR if the bonds are all directed in opposite directions (typically away from the center atom)
+> Bent shapes with dipoles won't be NONPOLAR because there is an average trend of electronegativity from one side to the other
+
+
+BOND LENGTH
+- LARGER ATOMS HAVE GREATER BOND LENGTHS
+- DETERMINED BY NUMBER OF BONDED ELECTRONS
+- BOND "ORDER" & BOND LENGTH ARE INVERSELY PROPORTIONAL
+- Single bond == bond order 1, double = 2, triple = 3
+
+POLYATOMIC BOND LENGTH
+- TOTAL # of BONDS divided by # of bond groups (a bond group can be a single/double/triple bond)
+
+
+
+== ACIDS & BASES
+
+Ionization Equations:
+> Acid loses one Hydrogen atom and charge goes down 1, can represent as H2O solution going to H3O^(+) OR by just saying the original equals the <original>^(-) with one less H, PLUS an H^(+) component (shown with addition symbol)
+
+Acid-Base reactions:
+- Typically just swap the non-hydrogen/non-oxygen parts and become water + something else
+
+
+CALCULATE PH
+
+7 is baseline. Water is 7
+> 1 pt change on scale is an order of magnitude in difference
+> Less than 7 is acidic, greater than 7 is base
+
+Measured by the M value of [H3O^(+)]. 1 x 10^(-7) == Neutral solution. More than that is Acidic, less than that is base
+
+
+
+
+
+>> NOTE THE DIFFERENCE BETWEEN POH and PH
+
+1- Calculate PH of:
+
+a. 0.0012M HCl =-log(0.0012)=2.92
+
+b. 0.2M HNO3 =-log(0.2)=0.70
+
+c. a solution containing 0.034 M [H3O]+ =-log(0.034 )=1.47
+
+
+3- Calculate POH and PH for: 
+
+a. 0.1M NaOH POH=-log(0.1)=1     PH=14-1=13
+
+b. 0.003 M of LiOH POH=-log(0.003)=2.52   PH=14-2.52=11.48
+
+
+
+
+
+
+
+
+
+
+
+
+

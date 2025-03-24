@@ -1,0 +1,103 @@
+AVL Tree removal: 4 cases, 3 are easy but 1 is tricky
+
+Easy ones: 0 or 1 subtrees
+if 0, nothing to be done
+if 1, just replace the connections of the removed one with the child tree
+
+Tricky: 2 subtrees
+- You have 2 equal options in this case. From among values in the left subtree (smaller than this), you can pick the greatest number. Or you can pick the smallest from among the right tree.
+>> To find those mins/maxes, you start at the top node of that subtree, and then go as far left or right for the smallest/largest value that exists. (sometimes the top node has nothing in that direction itself! That means it is the largest/smallest among that subtree)
+
+================================================
+
+Tree Traversals:
+
+Pre-Order
+- Start at root, go as far left until you can't, then go up 1 and go right instead before going left.
+
+In-Order (left, up, right)
+
+Post-Order (left, right, up)
+
+Level Order (layer by layer from top to bottom -- like breadth-first-search)
+
+
+===================================================
+
+Graph Algorithms
+
+
+
+=== Dijkstra's Shortest Path Algorithm
+> With this algorithm, you pick the shortest connection available and then re-evaluate what the next shortest connection between nodes is. If storing the path, may need multiple similar paths stored to account for branching areas
+
+> In code, if you track the nodes + how far they are from the start + what the previous node in traveling to them was, you can both find AND reconstruct the path.
+
+> This algorithm should not be used on a graph with negative edge weights, because it will not always find the proper path (in terms of minimizing nodes visited)
+
+
+=== Bellman-Ford's Shortest Path Algorithm
+(Stupid-Simple type algorithm, often runs slowest)
+
+> Tracks "previous" and "distance from start" for each node.
+ > "previous" is just here to let us reconstruct the path
+
+> Total iterations are 1 less than the number of vertices
+> On each iteration, update values along all outgoing edges for each node
+ > If the node has an unknown "distance from start" for this iteration, then just skip it for now.
+
+> Takes AT MOST V-1 iterations (V is # of vertices). You can stop early if no distance values update during the iteration
+
+=== Minimum Spanning Tree Algorithm
+
+A graph's minimum spanning tree is a subset of the graph's edges that connect all vertices in
+the graph together with the minimum sum of edge weights. The graph must be weighted and
+connected (meaning a path exists between every pair of vertices)
+
+> 2 things to arrange for this
+ 1) Collection of all edges in graph
+ 2) Collection of discovered vertex groups stored as List<List<Vertex>> initialized as each vertex in it's own list, within the higher list.
+   >> e.g. for vertices A,B,C you would make [[A], [B], [C]]
+
+Then you iterate through the edges starting from lowest-weight to highest. If that edge would bridge two disconnected vertex groups, You merge the group lists together (e.g. [[A, B], [C]] ) and 
+
+Your return value is the set of edges which were found to merge those disparate groups.
+> The edges should be usable to reconstruct the vertex connections / groupings
+
+
+>> Alternate implementation
+You could also do this by traveling around from any starting point. Maintain a list of all edges pointing into yet-explored vertices. Check the shortest one in the list and add the further adjacencies found (unless it points somewhere that was already visited)
+
+
+== All pairs shortest path Algorithm
+
+This algorithm creates a table which describes the shortest path FROM each vertex TO each other vertex.
+> Usually just outputted as distances, but you can store the actual path there if you wanted.
+
+
+Floyd-Warshall algorithm: output is a matrix of distances. Can't be used on a graph with negative cycles.
+> Initialized with each value as max (infinity)
+> Paths from a vertex to itself are always 0, can be initialized as such
+> Direct edge connections can also be initialized as those are obvious 1-distance connections
+
+> algorithm body iterates through list of vertices, updating distance totals by using itself as an intermediary. e.g. A->B is 3, B->C is 2. You are currently iterating on B, so you evaluate the A->C distance using B as an in between and find that it equals 5. You will iterate all pairs in this way, so the result is a total of 3 for loops, nested in each other.
+
+> Max iterations over table needed is the # of vertices in the graph
+ >> You can exit early if nothing is updated during a pass
+
+Path can be reconstructed using the found weights.
+> What you are looking for is a 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

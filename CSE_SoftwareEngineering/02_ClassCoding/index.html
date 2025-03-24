@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <!-- add type module here -->
+    <script defer type="module" src="src/index.js"></script>
+  </head>
+  <body>
+    <form>
+      <label for="todo">To-Do Item:</label>
+      <input type="text" id="todo" name="todo" placeholder="Enter your task" />
+      <label for="dueDate">Due Date:</label>
+      <input type="date" id="dueDate" name="dueDate" />
+      <label for="notes">Notes:</label>
+      <textarea id="notes" name="notes" placeholder="Notes"></textarea>
+      <button type="submit">Add To-Do</button>
+    </form>
+    <ul class="todoContainer"></ul>
+  </body>
+</html>
